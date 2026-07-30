@@ -1,0 +1,1 @@
+This is a website that allows for customized greetings based on name and time of day as are inserted into their respective text boxes. In order to run the script, simply open the HTML in VS Code and then run the program, either via the default VS Code toolbar or via the Live Server extension.
